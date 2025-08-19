@@ -1,0 +1,67 @@
+# 🎮 Play2Learn – Web3 Learn-to-Earn Platform
+
+## 🚀 Vision
+Empowering learners to acquire new skills and languages while earning blockchain-based rewards, making education more engaging and accessible for everyone.  
+
+---
+
+## 📖 Description
+**Play2Learn** is a Web3-powered **Learn-to-Earn** platform that merges education with GameFi.  
+
+- 🧑‍🎓 Users can learn languages, coding, and soft skills while earning tokens as incentives.  
+- 🎓 NFT certificates are issued as **verifiable proof of achievement** after completing courses or challenges.  
+- 🏆 Features include staking, leaderboards, and community quests to boost motivation and engagement.  
+- 🌍 A sustainable ecosystem where **students stay motivated** and **educators are fairly rewarded**.  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React / Next.js  
+- **Smart Contracts:** Solidity (Ethereum / BNB Chain)  
+- **NFT Certificates:** ERC-721 standard  
+- **Token Rewards:** ERC-20 standard  
+- **Database:** IPFS / decentralized storage  
+
+---
+
+## 📈 Progress
+- ✅ MVP: Learning module + token reward system  
+- ✅ NFT issuance for course completion  
+- ✅ Wallet login integration  
+- 🔜 Upcoming: advanced gamification, staking, and governance  
+
+---
+
+## 🔑 Key Features
+- **Learn-to-Earn:** Earn tokens by completing lessons  
+- **NFT Proof-of-Skill:** Unique certificates stored on-chain  
+- **Gamification:** Badges, levels, and leaderboard ranking  
+- **Decentralized Rewards:** Transparent token distribution via smart contracts  
+
+---
+
+## 💰 Fundraising
+We are currently seeking **seed funding** to:  
+1. Expand the content library with high-quality courses  
+2. Enhance gamification features (quests, badges, levels)  
+3. Build partnerships with schools, universities, and edtech companies  
+4. Scale the tokenomics model for long-term sustainability  
+
+---
+
+## 📜 Tokenomics (Draft)
+- **50%** – Learning Rewards (students)  
+- **20%** – Educator Incentives  
+- **15%** – Ecosystem & Partnerships  
+- **10%** – Development Team  
+- **5%** – Treasury & Governance  
+
+---
+
+## 🌐 Join Us
+We believe learning should be **fun, rewarding, and decentralized**.  
+Be part of the **Play2Learn revolution**! 🚀  
+
+📩 Contact: [your-email@example.com]  
+💻 GitHub: [your-repo-link]  
+
